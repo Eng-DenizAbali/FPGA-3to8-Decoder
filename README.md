@@ -41,7 +41,7 @@ The design synthesizes into parallel multiplexer stages driven by the 3-bit inpu
 Functional verification in QuestaSim / ModelSim showing decoded one-hot states for all 3-bit input combinations ($000 \rightarrow 111$):
 
 <p align="center">
-  <img src="simulation_waveform.png" alt="Simulation Waveform" width="85%">
+  <img src="waveform.png" alt="Simulation Waveform" width="85%">
 </p>
 ---
 ## 💡 Hardware Demonstration / Hardware-Verifikation
